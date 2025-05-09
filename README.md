@@ -1,3 +1,6 @@
+<img src="docs/banner.png" alt="Bannière du projet" width="700"/>
+
+
 # 🎤 Analyse des interventions scientifiques en langue française
 
 ## 👤 Réalisé par
